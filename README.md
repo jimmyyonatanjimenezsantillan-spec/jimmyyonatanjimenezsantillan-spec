@@ -1,26 +1,18 @@
 <div align="center">
 
-<!-- Banner de Valheim -->
+<!-- Banner de Valheim seguro -->
 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/892970/ss_2b73315a6b0c36eefc405a42095cc18dfd768137.1920x1080.jpg" width="100%" height="250" style="object-fit: cover; border-radius: 15px;" alt="Valheim Base" />
 
 <br><br>
 
-<!-- Vida Minecraft y Maná de Café animado -->
+<!-- Vida y Maná con Emojis (Estos NUNCA se rompen en GitHub) -->
 <p>
-  <img src="https://media.tenor.com/1F4zK4k1y_wAAAAC/minecraft-hearts.gif" height="25" style="vertical-align: middle;" /> 
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  <img src="https://media.tenor.com/5u-uP4F3NnAAAAC/coffee-pixel.gif" height="30" style="vertical-align: middle;" /> 
+  ❤️❤️❤️❤️❤️🖤 <b>|</b> ☕☕☕ <b>|</b> <b>[ CLASE: Principiante / Soporte de IA ]</b>
 </p>
 
-<p><b>[ CLASE: Principiante / Soporte de IA ]</b></p>
-
-<!-- Agentes de Valorant escoltando tu nombre animado -->
+<!-- Título animado SVG (Servidor estable) -->
 <p>
-  <img src="https://media.tenor.com/8_Tj2R5U8iEAAAAC/valorant-jett.gif" height="60" style="vertical-align: middle;" />
-  &nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=PLAYER+1:+JIMMY+YONATAN" alt="Typing SVG" style="vertical-align: middle;" />
-  &nbsp;
-  <img src="https://media.tenor.com/9nFk1sE9XCAAAAAC/killjoy-valorant.gif" height="60" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=PLAYER+1:+JIMMY+YONATAN" alt="Typing SVG" />
 </p>
 
 <br>
@@ -43,8 +35,6 @@
 <div align="center">
   
 ### 🎒 INVENTARIO DE HABILIDADES
-
-> *"Equipamiento actual Para desarrollar"*
 
 <br>
 
@@ -72,12 +62,6 @@
 
 ### 📊 Estadísticas del jugador
 
-<p><i>No tengo jaja</i></p>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="300" />
-<br>
-<i>"Apareciendo en 3... 2... 1..."</i>
+<p><i>Farmeando xp... Por que no tengo jaja</i></p>
 
 </div>
