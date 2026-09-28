@@ -7,7 +7,7 @@
 
 <!-- Vida y Maná con Emojis (Estos NUNCA se rompen en GitHub) -->
 <p>
-  ❤️❤️❤️❤️❤️🖤 <b>|</b> ☕☕☕ <b>|</b> <b>[ CLASE: Principiante / Soporte de IA ]</b>
+  ❤️❤️❤️❤️❤️🖤 <b>|</b> ☕☕☕ <b>|</b> <b>[ CLASE: Principiante / Controlador de IA ]</b>
 </p>
 
 <!-- Título animado SVG (Servidor estable) -->
