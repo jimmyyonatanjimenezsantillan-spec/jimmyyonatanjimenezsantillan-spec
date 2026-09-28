@@ -3,7 +3,7 @@
 <!-- Banner animado tipo Arcade -->
 <img src="https://i.pinimg.com/originals/26/1e/8a/261e8a2a4b6bfdfd80ea42bc4684b729.gif" width="100%" height="200" style="object-fit: cover;" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=INSERT+COIN...;PLAYER+1:+JIMMY+YONATAN;LEVELING+UP+WEB+DEV;GL+HF!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=INSERT+COIN...;PLAYER+:+JIMMY+YONATAN;LEVELING+UP+WEB+DEV;GL+HF!" alt="Typing SVG" />
 
 <p>
   <b>[ HP: 100/100 ] | [ MANA: ☕☕☕ ] | [ CLASE: Web Dev / AI Tinkerer ]</b>
@@ -65,9 +65,9 @@
 <br>
 
 ### 📊 Estadísticas del jugador
+<td align="center" width="30%">
+<i>No tengo jaja</i>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jimmyyonatanjimenezsantillan-spec&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" height="165" alt="Stat Card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyyonatanjimenezsantillan-spec&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" height="165" alt="Top Langs" />
 
 <br><br>
 
