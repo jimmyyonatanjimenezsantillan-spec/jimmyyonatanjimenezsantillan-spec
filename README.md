@@ -5,8 +5,8 @@
   <h1> Hola, soy Jimmy Yonatan</h1>
   <p> Apasionado por el desarrollo web, proyectos de código abierto y arquitectura de software con el uso de la IA .</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://tu-sitio-web.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](in/jimmy-santillan-a50537194)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)]([https://tu-sitio-web.com](https://codepen.io/Jimenez-Santillan))
 </div>
 
 ---
