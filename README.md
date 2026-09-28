@@ -2,8 +2,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=180&section=header&text=Desarrollador%20Software&fontSize=38" width="100%"/>
   
-  <h1>👋 Hola, soy [Tu Nombre]</h1>
-  <p>🚀 Apasionado por el desarrollo web, proyectos de código abierto y arquitectura de software.</p>
+  <h1> Hola, soy Jimmy Yonatan</h1>
+  <p> Apasionado por el desarrollo web, proyectos de código abierto y arquitectura de software con el uso de la IA .</p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://tu-sitio-web.com)
