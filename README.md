@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner de Valheim seguro -->
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/892970/ss_2b73315a6b0c36eefc405a42095cc18dfd768137.1920x1080.jpg" width="100%" height="250" style="object-fit: cover; border-radius: 15px;" alt="Valheim Base" />
+<img src="[https://cdn.cloudflare.steamstatic.com/steam/apps/892970/ss_2b73315a6b0c36eefc405a42095cc18dfd768137.1920x1080.jpg](https://www.reddit.com/r/valheim/comments/14yu74m/official_valheim_art_appreciation/)" width="100%" height="250" style="object-fit: cover; border-radius: 15px;" alt="Valheim Base" />
 
 <br><br>
 
